@@ -1,15 +1,15 @@
 html {
-  height: 100%; }
+    height: 100%; }
 
 body {
-  font-family: 'Open Sans';
-  color: white;
-  min-height: 100%;
-  background: -webkit-radial-gradient(#2b1339, #380c77);
-  background: radial-gradient(#2b1339, #380c77); }
+    font-family: 'Open Sans';
+    color: white;
+    min-height: 100%;
+    background: -webkit-radial-gradient(#2b1339, #380c77);
+    background: radial-gradient(#2b1339, #380c77); }
 
 body.landing {
-  background: #5b5579; }
+    background: #5b5579; }
 
 body.landing .navbar {
     margin-bottom: 0;
@@ -20,31 +20,31 @@ body.landing .navbar {
 }
 
 .hero-content {
-  background: #2f1d57;
-  padding: 100px 0; }
+    background: #2f1d57;
+    padding: 100px 0; }
 
 .hero-content h1 {
-  font-size: 70px;
-  margin-bottom: 50px;
-  font-weight: 300; }
+    font-size: 70px;
+    margin-bottom: 50px;
+    font-weight: 300; }
 
 .selling-points {
-  padding: 100px 0; }
+    padding: 100px 0; }
 
 .selling-points .point {
-  width: 32%;
-  float: left;
-  padding: 0 0.5%; }
+    width: 32%;
+    float: left;
+    padding: 0 0.5%; }
 
 .selling-points .point h5 {
-  font-size: 24px;
-  font-weight: bold;
-  margin-bottom: 20px;
-  text-align: center;
-  height: 85px; }
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align: center;
+    height: 85px; }
 
 .selling-points .point p {
-  font-size: 14px; }
+    font-size: 14px; }
 
 .album-header-container {
     margin-top: 55px;
@@ -114,4 +114,3 @@ body.landing .navbar {
     max-width: 100%;
 }
 
-/*# sourceMappingURL=app.css.map*/
